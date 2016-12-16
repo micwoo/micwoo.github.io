@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-16T08:37:27.932Z</updated>
+  <updated>2016-12-16T08:52:03.279Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2016/12/05/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
     <id>http://yoursite.com/2016/12/05/写在前面/</id>
     <published>2016-12-05T15:15:03.284Z</published>
-    <updated>2016-12-16T08:37:27.932Z</updated>
+    <updated>2016-12-16T08:52:03.279Z</updated>
     
-    <content type="html"><![CDATA[<p>##<strong>为什么要写这个博客</strong></p>
+    <content type="html"><![CDATA[<p><strong>为什么要写这个博客</strong></p>
 <hr>
 <ol>
 <li>国内的Photoshop教材良莠不齐，学习难度大，条理不清晰，互相抄袭严重，严重影响了一款优秀的图像/图形修改设计软件的普及和使用。</li>
@@ -33,7 +33,7 @@
 <li>你管我。</li>
 </ol>
 <p><img src="http://ww4.sinaimg.cn/mw690/006DtF04jw1fasprjmynjj30cv097q3i.jpg" alt=""></p>
-<p>##<strong>本教材使用说明</strong></p>
+<p><strong>本教材使用说明</strong></p>
 <hr>
 <p>本书根据内容的难易程度及掌握优先度排序，先介绍了Photoshop的基本操作,然后介绍了图像的基本修改方法——顺应近年来高品质数码相机的普及，在介绍图像修改方法后介绍了CR的使用方法，以便高品质数码相机使用者能够轻松修改照片；接着介绍了PS在艺术设计中的应用，同时介绍了一些简要的设计和排版方法；在本书的探索内容部分，介绍了PS中最近的版本才有的3D功能和并不完善的视频动画功能——之所以排在探索板块，是因为这一部分内容，其实与PS传统的应用领域并无重叠，并且本身功能还不完善，因此读者大可带着好奇的心理了解一下即可；最后说明了一些略微复杂的文件输出技巧。<br>为方便读者快速查阅所需内容，特地按特定名词出现顺序和按读音排序编排了两份索引。您能够发现，利用严谨校对的索引，能够快速方便地使用本书，甚至可以像使用一本工具书一样使用本书。</p>
 <p>转载请注明来源<a href="https://micwoo/github.io" target="_blank" rel="external">micwoo</a>的博客<a href="https://micwoo.github.io" target="_blank" rel="external">JustPhotoshop</a></p>
@@ -44,11 +44,11 @@
     
     <summary type="html">
     
-      &lt;p&gt;##&lt;strong&gt;为什么要写这个博客&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;为什么要写这个博客&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;国内的Photoshop教材良莠不齐，学习难度大，条理不清晰，互相抄袭严重，严重影响了一款优秀的图像/图形修改设计软件的普及和使用。&lt;/li&gt;
-&lt;li&gt;国外不乏优秀教材，如&lt;a h
+&lt;li&gt;国外不乏优秀教材，如&lt;a hre
     
     </summary>
     
